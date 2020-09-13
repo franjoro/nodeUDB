@@ -1,0 +1,26 @@
+[
+  {
+    "nombre": "Franklin",
+    "apellido": "Lopez",
+    "tel": "123458",
+    "email": "email@email.com"
+  },
+  {
+    "nombre": "Jose",
+    "apellido": "Perez",
+    "tel": "123458",
+    "email": "email@email.com"
+  },
+  {
+    "nombre": "Luis",
+    "apellido": "Josefo",
+    "tel": "123458",
+    "email": "email@email.com"
+  },
+  {
+    "nombre": "Fulanito",
+    "apellido": "Lopez",
+    "tel": "123458",
+    "email": "email@email.com"
+  }
+]
